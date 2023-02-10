@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/proxty-design-pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proxy-design-pattern" vcs="Git" />
   </component>
 </project>
